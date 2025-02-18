@@ -8,5 +8,6 @@ module.exports = merge(common, {
         static: './',
         port: 3001,
         hot: true,
+        open: true,
     },
 });
